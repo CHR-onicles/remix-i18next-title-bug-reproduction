@@ -1,6 +1,6 @@
 # Remix-i18next title bug reproduction
 
-This does NOT use the `i18next-fs-backend` package. Translations are loaded server side.
+This does NOT use the `i18next-fs-backend` package. Translations are imported server side.
 
 
 ## Issue
